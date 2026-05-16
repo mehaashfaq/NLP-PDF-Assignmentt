@@ -44,7 +44,8 @@ To clean the text, I applied several steps:
 ### 4. Text Processing
 - Applied stemming to reduce words to their root form
 - Applied lemmatization to get meaningful base words
-<img width="680" height="146" alt="image" src="https://github.com/user-attachments/assets/2cf0ee30-9e90-4bbe-bbbc-a9f182158752" />
+<img width="656" height="147" alt="image" src="https://github.com/user-attachments/assets/c3ab2fc7-4769-4844-b282-9ee126644964" />
+
 
 
 ---
@@ -54,14 +55,16 @@ To clean the text, I applied several steps:
 #### One Hot Encoding
 - Converted words into binary format
 - Displayed results in a table using pandas
-<img width="435" height="340" alt="image" src="https://github.com/user-attachments/assets/effe9ed0-10e3-4c03-a5ba-c00316b599c4" />
+<img width="560" height="344" alt="image" src="https://github.com/user-attachments/assets/b04c0257-298c-49ed-85b1-4d7f597c083f" />
+
 
 #### TF-IDF
 - Converted text into numerical values
 - Found important words based on frequency and importance
 - Displayed results in tabular form
 
-  <img width="527" height="268" alt="image" src="https://github.com/user-attachments/assets/e004caa9-e01d-4507-bec2-abc91799051a" />
+<img width="484" height="268" alt="image" src="https://github.com/user-attachments/assets/d389fe82-ab46-4875-a080-4828f79fe9bf" />
+
 
 
 ---
@@ -69,9 +72,9 @@ To clean the text, I applied several steps:
 ### 6. Visualization
 - Created a scatter plot using Plotly
 - Plotted words against their TF-IDF scores
-<img width="471" height="274" alt="image" src="https://github.com/user-attachments/assets/c8ee50b9-e629-42c8-9cd1-300ce3112cb2" />
+<img width="553" height="269" alt="image" src="https://github.com/user-attachments/assets/86bb50e8-b60d-45e7-b3e6-3eceb2420523" />
+<img width="650" height="379" alt="image" src="https://github.com/user-attachments/assets/ba04e518-1b56-4130-875b-2ec06b135095" />
 
-<img width="651" height="374" alt="image" src="https://github.com/user-attachments/assets/c6afbd50-924e-4666-b952-d804ea4edda2" />
 
 ---
 
